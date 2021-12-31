@@ -11,9 +11,3 @@ document.getElementById('login-submit').addEventListener('click', function () {
         window.location.href = 'second.html';
     }
 });
-
-//Handle deposite buutton id
-
-// document.getElementById('deposite-button').addEventListener('click', function () {
-//     console.log('Deposite Button Click');
-// });
